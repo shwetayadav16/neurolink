@@ -35,13 +35,4 @@ export {
   videoProcessor,
 } from "./VideoProcessor.js";
 
-// =============================================================================
-// AUDIO PROCESSOR (placeholder for future implementation)
-// =============================================================================
-// export {
-//   AudioProcessor,
-//   audioProcessor,
-//   isAudioFile,
-//   processAudio,
-// } from "./AudioProcessor.js";
-// export type { ProcessedAudio } from "./AudioProcessor.js";
+
